@@ -45,7 +45,7 @@ Lev-Net aims to provide an interactive platform for distance learning students a
 ![_cgi-bin_mmwebwx-bin_webwxgetmsgimg__ MsgID=2855357051820163534 skey=@crypt_5ebbf9fb_b808a9e0ee01b65c3445122b744da4ac mmweb_appid=wx_webfilehelper](https://user-images.githubusercontent.com/60364652/207169618-f13a7364-6644-4a81-b709-a0f75adc4a04.jpg)
 
 
-- The VRTK project will now open within the Unity software.
+- The Lev-Net project will now open within the Unity software.
 
 #### Opening from within the Unity software
 
