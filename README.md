@@ -1,4 +1,5 @@
-![image-20221212125740483](/Users/hongfeichen/Library/Application Support/typora-user-images/image-20221212125740483.png)
+![webwxgetmsgimg](https://user-images.githubusercontent.com/60364652/207169196-646b0675-d97c-4420-beeb-e21082063ca0.jpg)
+
 
 > ### Lev-Net - Virtual Reality Education Platform
 >
@@ -35,12 +36,14 @@ Lev-Net aims to provide an interactive platform for distance learning students a
 - Open the [Unity Hub](https://docs.unity3d.com/Manual/GettingStartedUnityHub.html) panel.
 - Click the `Open` Button:
 
-![image-20221212134616500](/Users/hongfeichen/Library/Application Support/typora-user-images/image-20221212134616500.png)
+![_cgi-bin_mmwebwx-bin_webwxgetmsgimg__ MsgID=367721138453721998 skey=@crypt_5ebbf9fb_b808a9e0ee01b65c3445122b744da4ac mmweb_appid=wx_webfilehelper (1)](https://user-images.githubusercontent.com/60364652/207169476-72cafc55-ea32-435f-b563-38bd507228a3.jpg)
+
 
 - Browse to the local directory where the repository was downloaded to and click `Select Folder`:
 - The Lev-Net project will now show up in the Unity Hub project window, so select it to open the Lev-Net project in the Unity software:
 
-![image-20221212135938345](/Users/hongfeichen/Library/Application Support/typora-user-images/image-20221212135938345.png)
+![_cgi-bin_mmwebwx-bin_webwxgetmsgimg__ MsgID=2855357051820163534 skey=@crypt_5ebbf9fb_b808a9e0ee01b65c3445122b744da4ac mmweb_appid=wx_webfilehelper](https://user-images.githubusercontent.com/60364652/207169618-f13a7364-6644-4a81-b709-a0f75adc4a04.jpg)
+
 
 - The VRTK project will now open within the Unity software.
 
@@ -61,11 +64,15 @@ Lev-Net aims to provide an interactive platform for distance learning students a
 
 ## Sample project screenshots
 
-<img src="/Users/hongfeichen/Library/Application Support/typora-user-images/image-20221212171521815.png" alt="image-20221212171521815" align="left" style="zoom:50%;" />
+![download](https://user-images.githubusercontent.com/60364652/207169720-e36cc1f7-a460-4280-8932-46a4920b3f9a.png)
 
-<img src="/Users/hongfeichen/Library/Application Support/typora-user-images/image-20221212171558457.png" alt="image-20221212171558457" align="left" style="zoom:50%;" />
 
-<img src="/Users/hongfeichen/Library/Application Support/typora-user-images/image-20221212171620663.png" alt="image-20221212171620663" align="left" style="zoom:50%;" />
+![download](https://user-images.githubusercontent.com/60364652/207169771-87d0bbb4-5e3f-4116-9880-2ab858e2561c.png)
 
-<img src="/Users/hongfeichen/Library/Application Support/typora-user-images/image-20221212171647421.png" alt="image-20221212171647421" align="left" style="zoom:50%;" />
+
+![download](https://user-images.githubusercontent.com/60364652/207169827-996d2ed5-f18c-4d2a-9eb1-46b73d64a052.png)
+
+
+![download](https://user-images.githubusercontent.com/60364652/207169832-3ad1b98a-2b25-4fba-9c8d-fc6432ede0b3.png)
+
 
