@@ -9,7 +9,7 @@ public class CameraScript : MonoBehaviour
     int currentCamIndex = 0;
 
     WebCamTexture tex;
-
+    
     public RawImage display;
     public Text startStopText;
     public void SwapCam_Clicked()
@@ -17,8 +17,11 @@ public class CameraScript : MonoBehaviour
         if (WebCamTexture.devices.Length > 0)  
         {
             currentCamIndex += 1;
-            currentCamIndex %= WebCamTexture.devices.Length;
-
+            currentCamIndex %= 2;
+            for (int i = 0; i < WebCamTexture.devices.Length; i++) {
+            var device = WebCamTexture.devices[i];
+            Debug.Log ($"Device Found: {i}, {device.name}");
+ }
             // if tex is not null
             // stop the webcam
             // start the webcam
